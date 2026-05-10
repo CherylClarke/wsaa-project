@@ -4,3 +4,10 @@ lectures & Tutorials by Andrew Beatty, Web Services and applications (2026).
 
 Flask (2026) application setup (online) available from: https://flask.palletsprojects.com/en/stable/tutorial/factory/ [accessed 5 may 2026].
 
+geeksforgeeks (2026) flask rendering templates (online) available from: https://www.geeksforgeeks.org/python/flask-rendering-templates/. [accessed 8 may 2026].
+
+flask(2026) static files (online) available from: https://flask.palletsprojects.com/en/stable/tutorial/static/ [accessed 8 may].
+
+chatgpt(2026) prompt- how to do put this in step by step available from : https://chatgpt.com/c/6a00c066-5d98-83eb-b07f-b5da62b471b3 [accessed 10 may 2026].
+
+chat gpt(2026)prompt: for index nedded for template for movie app , available at :https://chatgpt.com/c/6a00bb0c-6538-83eb-bab1-9f16f376b61f [accessed 10 of may 2026].

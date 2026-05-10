@@ -118,3 +118,11 @@ if __name__ == "__main__":
 # https://chatgpt.com/c/6a00bb0c-6538-83eb-bab1-9f16f376b61f
 # now when you run the app and go to the homepage,
 # you should see the movie collection interface where you can add, view, update, and delete movies from your collection.
+
+
+# next step is create the javascript file to connect the frontend to the backend
+# sos that the input from the user can be sent to the backend and stored in the database,
+# and also to fetch the movies from the database and display them on the frontend.
+
+# after done run again in terminal and refresh homepage and test by adding some movies.
+
