@@ -113,3 +113,8 @@ if __name__ == "__main__":
 # if successful will return:Running on http://127.0.0.1:5000
 
 # will show the home page of app , nothing in it right now
+
+#added new template to folder and added html code to index.html
+# https://chatgpt.com/c/6a00bb0c-6538-83eb-bab1-9f16f376b61f
+# now when you run the app and go to the homepage,
+# you should see the movie collection interface where you can add, view, update, and delete movies from your collection.
