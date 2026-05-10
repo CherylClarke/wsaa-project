@@ -1,0 +1,6 @@
+References below:
+
+lectures & Tutorials by Andrew Beatty, Web Services and applications (2026).
+
+Flask (2026) application setup (online) available from: https://flask.palletsprojects.com/en/stable/tutorial/factory/ [accessed 5 may 2026].
+
